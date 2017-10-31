@@ -1,4 +1,4 @@
-# QA Client For HUST'S QA System
+test# QA Client For HUST'S QA System
 - author:fox
 - email:cszhenyuhu@foxmail.com
 - 如果程序有bug请描述bug产生的情况，附上错误截图，我收到邮件后会及时更新！
